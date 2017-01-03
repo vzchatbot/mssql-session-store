@@ -1,6 +1,6 @@
 {
-  "server": "localhost\\sqlexpress",
-  "database": "sessiontest",
-  "user": "sa",
-  "password": "atonan"
-}
+        user: 'erepairstg',
+        password: 'testrepairstg',
+        server: '10.77.41.138', 
+        database: 'UFD' 
+    }
